@@ -35,6 +35,8 @@ public class ResumoPacoteActivity extends AppCompatActivity {
         mostraDias(pacoteSaoPaulo);
         mostraPreco(pacoteSaoPaulo);
         mostraData(pacoteSaoPaulo);
+
+        
     }
 
     private void mostraData(Pacote pacote) {
