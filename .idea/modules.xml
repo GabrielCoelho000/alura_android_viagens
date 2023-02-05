@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android_viagem.iml" filepath="$PROJECT_DIR$/.idea/modules/android_viagem.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android_viagem.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android_viagem.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android_viagem.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android_viagem.app.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android_viagem.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android_viagem.app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android_viagem.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android_viagem.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/alura_android_viagens.iml" filepath="$PROJECT_DIR$/.idea/modules/alura_android_viagens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/alura_android_viagens.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/alura_android_viagens.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/alura_android_viagens.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/alura_android_viagens.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/alura_android_viagens.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/alura_android_viagens.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/alura_android_viagens.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/alura_android_viagens.app.unitTest.iml" />
     </modules>
   </component>
 </project>

@@ -10,8 +10,10 @@ public class ResourceUtil {
 
     public static Drawable devolveDrawable(Context context, String drawableEmTexto) {
         Resources resources = context.getResources();
+
         int idDoDrawable = resources.getIdentifier(drawableEmTexto
                 , DRAWABLE, context.getPackageName());
+
         return resources.getDrawable(idDoDrawable);
     }
 }
